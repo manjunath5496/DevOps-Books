@@ -65,7 +65,26 @@
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(52).pdf" style="text-decoration:none;">Hands on Docker</a></b></li>
                                
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(2).pdf" style="text-decoration:none;">Agile Project Management with Azure DevOps</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(7).pdf" style="text-decoration:none;">Reinventing ITIL in the Age of DevOps</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(9).pdf" style="text-decoration:none;">DevOps For Dummies</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(29).pdf" style="text-decoration:none;">Security is Dead. Long Live Rugged DevOps: IT at Ludicrous Speed ...</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 </ul>
