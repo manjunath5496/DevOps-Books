@@ -83,15 +83,20 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(33).pdf" style="text-decoration:none;">Ansible: Up and Running</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(45).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></b></li>
                                
-
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(53).pdf" style="text-decoration:none;">Jenkins: The Definitive Guide</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(54).rar" style="text-decoration:none;">Jenkins Continuous Integration Cookbook</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(55).pdf" style="text-decoration:none;">Jenkins Essentials</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(56).pdf" style="text-decoration:none;">Git Essentials</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(57).pdf" style="text-decoration:none;">Version Control with Git</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(58).pdf" style="text-decoration:none;">Pro Git</a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(59).pdf" style="text-decoration:none;">The Practice of System and Network Administration</a></b></li>
  
- 
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(60).pdf" style="text-decoration:none;">DevOps Troubleshooting: Linux Server Best Practices</a></b></li>
  
  
 </ul>
