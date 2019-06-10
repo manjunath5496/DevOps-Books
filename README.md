@@ -79,7 +79,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(38).pdf" style="text-decoration:none;">Puppet Best Practices: Design Patterns for Maintainable Code</a></b></li>
  
  
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(30).pdf" style="text-decoration:none;">Practical Network Automation: Leverage the power of Python and Ansible to optimize your network</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(33).pdf" style="text-decoration:none;">Ansible: Up and Running</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(45).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></b></li>
                                
