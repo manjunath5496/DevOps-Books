@@ -80,6 +80,10 @@
  
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(33).pdf" style="text-decoration:none;">Ansible: Up and Running</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(45).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></b></li>
+                               
+
  
  
  
