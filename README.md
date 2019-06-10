@@ -1,6 +1,6 @@
 
 </br>
-<p><strong>13 Must-read Books To Take Your DevOps Skills To The Next Level</strong></p>
+<p><strong>60 Must-read Books To Take Your DevOps Skills To The Next Level</strong></p>
 <p><strong>________________________________________________________________________________________________________________</strong></p>
 
 <ul>
