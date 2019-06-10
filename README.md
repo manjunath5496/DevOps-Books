@@ -73,7 +73,10 @@
  
  
  
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(23).pdf" style="text-decoration:none;">Puppet Cookbook</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(37).pdf" style="text-decoration:none;">Creating Development Environments with Vagrant</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(38).pdf" style="text-decoration:none;">Puppet Best Practices: Design Patterns for Maintainable Code</a></b></li>
  
  
  
