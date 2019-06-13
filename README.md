@@ -153,4 +153,55 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(60).pdf" style="text-decoration:none;">DevOps Troubleshooting: Linux Server Best Practices</a></b></li>
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(61).pdf" style="text-decoration:none;">Automate it!: Recipes to upskill your business</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(62).pdf" style="text-decoration:none;">Beginning Shell Scripting</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(63).pdf" style="text-decoration:none;">Classic Shell Scripting</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(64).pdf" style="text-decoration:none;">DevOps Bootcamp: A fast-paced guide to implement DevOps with ease</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(65).pdf" style="text-decoration:none;">Implementing Modern DevOps</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(66).pdf" style="text-decoration:none;">Linux Shell Scripting Cookbook</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(67).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(68).pdf" style="text-decoration:none;">Microservices: Building Scalable Software</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(69).pdf" style="text-decoration:none;">Microservices: Flexible Software Architecture</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(70).pdf" style="text-decoration:none;">Practical DevOps</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(71).pdf" style="text-decoration:none;">Pro Bash Programming: Scripting the GNU/Linux Shell</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(72).pdf" style="text-decoration:none;">Mastering UNIX Shell Scripting</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(73).pdf" style="text-decoration:none;">The Practical Guide to Enterprise DevOps and Continuous Delivery</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(74).pdf" style="text-decoration:none;">Linux in a Nutshell</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(75).pdf" style="text-decoration:none;">Linux Utilities Cookbook</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(76).pdf" style="text-decoration:none;">Mastering Wireshark</a></b></li> 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
