@@ -181,26 +181,54 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(76).pdf" style="text-decoration:none;">Mastering Wireshark</a></b></li> 
   
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(77).pdf" style="text-decoration:none;">REST API Design Rulebook</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(78).pdf" style="text-decoration:none;">Shell Scripting Recipes: A Problem-Solution Approach</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(79).pdf" style="text-decoration:none;">The DevOps Adoption Playbook</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(80).pdf" style="text-decoration:none;">Scala Microservices</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(81).pdf" style="text-decoration:none;">Linus for Developers: Jumpstart Your Linux Programming Skills</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(82).pdf" style="text-decoration:none;">Selenium Testing Tools Cookbook</a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(83).pdf" style="text-decoration:none;">Selenium WebDriver Recipes in Java</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(84).pdf" style="text-decoration:none;">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(85).pdf" style="text-decoration:none;">Architecting for Scale: High Availability for Your Growing Applications</a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(86).pdf" style="text-decoration:none;">Practical DevOps for Big Data</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(87).pdf" style="text-decoration:none;">Practical Linux Topics</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(88).pdf" style="text-decoration:none;">Getting Started with Kubernetes</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(89).pdf" style="text-decoration:none;">Just Culture: Balancing Safety and Accountability</a></b></li> 
+    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(90).pdf" style="text-decoration:none;">Site Reliability Engineering: How Google Runs Production Systems</a></b></li> 
+     
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(91).pdf" style="text-decoration:none;">DevOps Revealed Training Book</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(92).pdf" style="text-decoration:none;">JIRA Agile Essentials</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(93).pdf" style="text-decoration:none;">Implementation of DevOps pipeline for Serverless Applications</a></b></li> 
+    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(94).pdf" style="text-decoration:none;">Microservices for Java Developers: A Hands-on Introduction to Frameworks and Containers</a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(95).pdf" style="text-decoration:none;">Microservices Best Practices for Java</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(96).pdf" style="text-decoration:none;">Spring Microservices</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(97).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></b></li> 
+    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(98).pdf" style="text-decoration:none;">Automate The Boring Stuff With Python</a></b></li>  
  
- 
- 
- 
- 
- 
- 
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(99).pdf" style="text-decoration:none;">Microservices from Day One: Build robust and scalable software from the start</a></b></li> 
+    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(100).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
+L7-filter</a></b></li>  
  
  
  
