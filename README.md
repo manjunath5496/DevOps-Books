@@ -1,3 +1,6 @@
+<p><strong>DevOps</strong>&nbsp;is a set of practices that combines&nbsp;<a title="Software development" href="https://en.wikipedia.org/wiki/Software_development">software development</a>&nbsp;(<em>Dev</em>) and&nbsp;<a class="mw-redirect" title="Information technology operations" href="https://en.wikipedia.org/wiki/Information_technology_operations">information-technology operations</a>&nbsp;(<em>Ops</em>) which aims to shorten the&nbsp;<a title="Systems development life cycle" href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a>&nbsp;and provide&nbsp;<a title="Continuous delivery" href="https://en.wikipedia.org/wiki/Continuous_delivery">continuous delivery</a>&nbsp;with high&nbsp;<a title="Software quality" href="https://en.wikipedia.org/wiki/Software_quality">software quality</a>.</p>
+</br>
+
 <table class="vertical-navbox">
 <tbody>
 <tr>
