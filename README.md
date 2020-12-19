@@ -402,6 +402,22 @@ L7-filter</a></li>
  
 </ul>
 
+</br>
+
+<h2> Papers </h2>
 
 
+<ul>
 
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(1).pdf" style="text-decoration:none;">Formal Foundations of Serverless Computing</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(2).pdf" style="text-decoration:none;">Consistency Analysis in Bloom: a CALM and Collected Approach</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(3).pdf" style="text-decoration:none;">How do committees invent?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(4).pdf" style="text-decoration:none;">Your Server as a Function</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(5).pdf" style="text-decoration:none;">Understanding Software Ecosystems:
+A Strategic Modeling Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(6).pdf" style="text-decoration:none;">Resource Oriented Computing for Adaptive Systems</a></li>
+ </ul>
