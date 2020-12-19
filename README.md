@@ -420,4 +420,36 @@ L7-filter</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(5).pdf" style="text-decoration:none;">Understanding Software Ecosystems:
 A Strategic Modeling Approach</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(6).pdf" style="text-decoration:none;">Resource Oriented Computing for Adaptive Systems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(7).pdf" style="text-decoration:none;">From DevOps to DevDataOps: Data Management in DevOps processes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(8).pdf" style="text-decoration:none;"> Ethics in DevOps, The Attitude of Programmers Towards it</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(9).pdf" style="text-decoration:none;">DevOps and software quality: A systematic mapping</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(10).pdf" style="text-decoration:none;">Application of DevOps in the improvement of machine learning processes </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(11).pdf" style="text-decoration:none;">Industrial DevOps</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(12).pdf" style="text-decoration:none;">Readiness model for DevOps implementation in software organizations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(13).pdf" style="text-decoration:none;">DevOps, Challenges and Implications</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(14).pdf" style="text-decoration:none;">Leading DevOps Practice and Principle Adoption</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(15).pdf" style="text-decoration:none;">Proposal To Cope Change Resistance Using DevOps</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(16).pdf" style="text-decoration:none;">A Survey on DevOps Techniques Used in Cloud-Based IOT Mashups</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(17).pdf" style="text-decoration:none;">Devops and Microservices Based Internet of Things Meta-Model</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(18).pdf" style="text-decoration:none;">How DevOps Practices Support Digital Transformation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(19).pdf" style="text-decoration:none;">Anomaly Detection in DevOps Toolchain</a></li> 
+
+
+
+
+
+
+
+
  </ul>
