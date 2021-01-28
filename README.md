@@ -445,9 +445,20 @@ A Strategic Modeling Approach</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(19).pdf" style="text-decoration:none;">Anomaly Detection in DevOps Toolchain</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(20).pdf" style="text-decoration:none;">A Review Paper on DevOps: Beginning and More To Know</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(21).pdf" style="text-decoration:none;">A grounded theory analysis of modern web applications: knowledge, skills, and abilities for DevOps</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(22).pdf" style="text-decoration:none;">Security Practices in DevOps</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(23).pdf" style="text-decoration:none;">DevOps: Introducing Infrastructure-as-Code</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(24).pdf" style="text-decoration:none;">Communication Challenges and Strategies in
+Distributed DevOps</a></li> 
 
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(25).pdf" style="text-decoration:none;">Improve software quality through practicing DevOps</a></li> 
 
 
 
