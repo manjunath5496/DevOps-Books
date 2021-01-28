@@ -398,8 +398,16 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(100).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
 L7-filter</a></li>  
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(101).pdf" style="text-decoration:none;">Scientific Programming and Computer Architecture</a></li> 
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(102).pdf" style="text-decoration:none;">Open Source Systems:
+Towards Robust Practices</a></li>  
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(103).pdf" style="text-decoration:none;">The Future of Software Quality Assurance</a></li> 
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(104).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(105).pdf" style="text-decoration:none;">Anti-fragile
+ICT Systems </a></li> 
 </ul>
 
 </br>
